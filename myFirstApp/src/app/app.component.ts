@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Bienvenue sur le site de Naïm! Mon premier projet Angular';
+
+  isThisIngredientVital: boolean = true;
 }
